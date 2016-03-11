@@ -10,3 +10,4 @@ SystemsGenetics.31Oct14.pdf - presentation for Epilepsy group at CU school of ph
 BIOS6606_2014Nov14.pdf - overview lecture on statistical analyses for global RNA expression (microarray and RNA-Seq)
 Resources For Microarray and RNA-Seq Analysis Handout.doc - list of analysis resources associated with BIOS6606_14Nov14.pdf  
 RCR_DataAcquisitionAndStatistics.07Jan15.pdf - presentation for Responsible Conduct of Research Lecture on Data Acquisition and Statistical analyses
+BioinformaticsJournalClub.Saba.11Mar16.pdf - journal club presentation on "Genome-Guided Transcriptome Assembly in the Age of Next-Generation Sequencing" by Liliana D. Florea and Steven L. Salzberg
